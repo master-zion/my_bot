@@ -91,7 +91,7 @@
       <heading_deg>0</heading_deg>
     </spherical_coordinates>
     <model name='unit_cylinder'>
-      <pose>-2.25114 -0.095568 0.5 0 -0 0</pose>
+      <pose>-0.076031 2.81253 0.5 0 -0 0</pose>
       <link name='link'>
         <inertial>
           <mass>1</mass>
@@ -146,7 +146,7 @@
       </link>
     </model>
     <model name='unit_cylinder_0'>
-      <pose>2.82303 -0.204833 0.5 0 -0 0</pose>
+      <pose>-2.45211 0.297152 0.5 0 -0 0</pose>
       <link name='link'>
         <inertial>
           <mass>1</mass>
@@ -201,7 +201,7 @@
       </link>
     </model>
     <model name='unit_cylinder_1'>
-      <pose>-0.174361 2.71424 0.5 0 -0 0</pose>
+      <pose>2.53612 -0.423056 0.5 0 -0 0</pose>
       <link name='link'>
         <inertial>
           <mass>1</mass>
@@ -256,7 +256,7 @@
       </link>
     </model>
     <model name='unit_cylinder_2'>
-      <pose>0.230592 -2.07814 0.5 0 -0 0</pose>
+      <pose>0.021171 -2.26041 0.5 0 -0 0</pose>
       <link name='link'>
         <inertial>
           <mass>1</mass>
@@ -311,10 +311,10 @@
       </link>
     </model>
     <state world_name='default'>
-      <sim_time>46 635000000</sim_time>
-      <real_time>47 345053749</real_time>
-      <wall_time>1754921048 608293280</wall_time>
-      <iterations>46635</iterations>
+      <sim_time>76 205000000</sim_time>
+      <real_time>77 247766</real_time>
+      <wall_time>1755144151 689938854</wall_time>
+      <iterations>76205</iterations>
       <model name='ground_plane'>
         <pose>0 0 0 0 -0 0</pose>
         <scale>1 1 1</scale>
@@ -326,40 +326,40 @@
         </link>
       </model>
       <model name='unit_cylinder'>
-        <pose>-2.25114 -0.095566 0.499993 -3e-06 -3e-06 0</pose>
+        <pose>-0.076033 2.81253 0.499993 -3e-06 -3e-06 0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-2.25114 -0.095566 0.499993 -3e-06 -3e-06 0</pose>
+          <pose>-0.076033 2.81253 0.499993 -3e-06 -3e-06 0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 -9.8 0 -0 0</acceleration>
           <wrench>0 0 -9.8 0 -0 0</wrench>
         </link>
       </model>
       <model name='unit_cylinder_0'>
-        <pose>2.82303 -0.204835 0.499997 3e-06 4e-06 -0</pose>
+        <pose>-2.45211 0.29715 0.499997 3e-06 4e-06 -0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>2.82303 -0.204835 0.499997 3e-06 4e-06 -0</pose>
+          <pose>-2.45211 0.29715 0.499997 3e-06 4e-06 -0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 -9.8 0 -0 0</acceleration>
           <wrench>0 0 -9.8 0 -0 0</wrench>
         </link>
       </model>
       <model name='unit_cylinder_1'>
-        <pose>-0.174363 2.71424 0.499993 -3e-06 -4e-06 -0</pose>
+        <pose>2.53612 -0.423054 0.499993 -3e-06 -4e-06 -0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>-0.174363 2.71424 0.499993 -3e-06 -4e-06 -0</pose>
+          <pose>2.53612 -0.423054 0.499993 -3e-06 -4e-06 -0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 -9.8 0 -0 0</acceleration>
           <wrench>0 0 -9.8 0 -0 0</wrench>
         </link>
       </model>
       <model name='unit_cylinder_2'>
-        <pose>0.230594 -2.07814 0.499997 3e-06 4e-06 -0</pose>
+        <pose>0.021173 -2.26041 0.499997 3e-06 4e-06 -0</pose>
         <scale>1 1 1</scale>
         <link name='link'>
-          <pose>0.230594 -2.07814 0.499997 3e-06 4e-06 -0</pose>
+          <pose>0.021173 -2.26041 0.499997 3e-06 4e-06 -0</pose>
           <velocity>0 0 0 0 -0 0</velocity>
           <acceleration>0 0 -9.8 0 -0 0</acceleration>
           <wrench>0 0 -9.8 0 -0 0</wrench>
